@@ -1,4 +1,4 @@
-class Project 
+class Project
 
   def initialize(project_desc)
     @project = project_desc
